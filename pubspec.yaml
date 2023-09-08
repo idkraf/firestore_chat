@@ -12,10 +12,10 @@ environment:
 dependencies:
   cloud_firestore: ^4.1.0
   #dash_chat_2: ^0.0.17
-  dash_chat_2:
-    git:
-      url: https://github.com/idkraf/Dash-Chat-2.git
-      path: main
+  #dash_chat_2:
+  #  git:
+  #    url: https://github.com/idkraf/Dash-Chat-2.git
+  #    path: main
   firebase_core: ^2.14.0
   firebase_storage: ^11.2.4
   flutter:
