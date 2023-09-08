@@ -15,7 +15,7 @@ dependencies:
   dash_chat_2:
     git:
       url: https://github.com/idkraf/Dash-Chat-2.git
-      path: cached_network_image
+      path: main
   firebase_core: ^2.14.0
   firebase_storage: ^11.2.4
   flutter:
